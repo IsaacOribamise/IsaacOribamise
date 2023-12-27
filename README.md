@@ -1,10 +1,10 @@
 # Introduction
 <h1>Hi, I'm Isaac Oribamise! <br/><a href="https://github.com/IsaacOribamise">A student in Cybersecurity and Information Assurance </a> and <a href="https://www.linkedin.com/in/isaac-oribamise/">Cybersecurity enthusiast</a></h1>
 
-<h2>👨‍💻 My Cybersecurity Projects:</h2>
+<h2>Aspiring to turn my passion into action, I'm on the lookout for hands-on experiences and an exciting new job in the cybersecurity landscape. 🛡️ Check out my latest projects below—each one a testament to my dedication in this field </h2>
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
+- <b>[Building a Resilient Cybersecurity Home Lab](https://github.com/richardsaunders215/keylogger)</b>
 - <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
   - [Keylogger](https://github.com/richardsaunders215/keylogger)
   - [FTP Scanner](https://github.com/richardsaunders215/FTP-Scanner)
