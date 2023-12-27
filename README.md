@@ -4,7 +4,7 @@
 <h2>Aspiring to turn my passion into action, I'm on the lookout for hands-on experiences and an exciting new job in the cybersecurity landscape. 🛡️ Check out my latest projects below—each one a testament to my dedication in this field </h2>
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- <b>[Building a Resilient Cybersecurity Home Lab](https://github.com/richardsaunders215/keylogger)</b>
+- <b>[Building a Resilient Cybersecurity Home Lab](https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab)</b>
 - <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
   - [Keylogger](https://github.com/richardsaunders215/keylogger)
   - [FTP Scanner](https://github.com/richardsaunders215/FTP-Scanner)
