@@ -5,10 +5,8 @@
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>[Building a Resilient Cybersecurity Home Lab](https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab)</b>
-- <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
-  - [Keylogger](https://github.com/richardsaunders215/keylogger)
-  - [FTP Scanner](https://github.com/richardsaunders215/FTP-Scanner)
-  - [Hello World](https://github.com/richardsaunders215/hello-world)
+- <b>[Firewall]()</b>
+
 
 <h2> 📜 Certifications</h2>
 
@@ -30,7 +28,7 @@
 
 - Let's connect and share our passion for cybersecurity!
 - Feel free to reach out for collaborations, discussions, or just to geek out over the latest exploits. 
-- My linkedin page is below:
+- My LinkedIn page is below:
 
 [<img align="left" alt="RichardSaunders | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
