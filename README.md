@@ -24,9 +24,9 @@
 
 <h2>🌱 I'm currently Learning</h2>
 
-- Cybersecurity
-- Large Language Learning Models
-- Power BI/Tableau
+- Cloud Security: I'm learning about cloud security principles. Understand how security works in popular cloud platforms (AWS, Azure, GCP)
+- Programming Language: Specifically Python and as I develop my Python skills, I will be applying them to real-world scenarios and showcasing them in future projects.
+- Practical Experience: Regularly participate in CTF challenges to hone my skills.
 
 <h2> 🤳 Connect with me:</h2>
 
