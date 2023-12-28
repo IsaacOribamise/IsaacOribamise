@@ -15,8 +15,12 @@
 - [CompTia A+](https://www.credly.com/users/isaac-oribamise/badges)
 - [ITIL Fundamentals](https://www.linkedin.com/in/isaac-oribamise/)
 
-<h2>🌱 My Goal</h2>
+<h2>🌱 My Goals for 2024</h2>
 
+- Breaking into IT: I am seeking an internship or entry-level position in IT or cybersecurity to gain practical experience and exposure to real-world scenarios.
+- Certifications: Aim to obtain relevant certifications such as the Systems Security Certified Practitioner (SSCP), CompTIA CySA+, and CompTIA PenTest+.
+- Networking: I want to build a professional network by attending cybersecurity conferences, joining online forums, and connecting with professionals in the field.
+- Hands-On Projects: I will undertake in practical, hands-on cybersecurity projects to gain real-world experience. This would involve setting up a home lab, participating in Capture The Flag (CTF) challenges, or contributing to open-source security projects.
 
 <h2>🌱 I'm currently Learning</h2>
 
