@@ -1,7 +1,7 @@
 # Introduction
 <h1>Hi, I'm Isaac Oribamise! <br/><a href="https://github.com/IsaacOribamise">A student in Cybersecurity and Information Assurance </a> and <a href="https://www.linkedin.com/in/isaac-oribamise/">a Cybersecurity enthusiast</a></h1>
 
-<h2>Aspiring to turn my passion into action, I'm on the lookout for hands-on experiences and an exciting new job in the cybersecurity landscape. 🛡️ Check out my latest projects below—each one a testament to my dedication in this field </h2>
+<h2>Aspiring to turn my passion into action, I'm on the lookout for hands-on experiences and an exciting new job in the cybersecurity landscape🛡️. Check out my latest projects below—each one a testament to my dedication in this field </h2>
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>[Building a Resilient Cybersecurity Home Lab](https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab)</b>
