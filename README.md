@@ -14,6 +14,7 @@
 - [CompTia Network+](https://www.credly.com/users/isaac-oribamise/badges)
 - [CompTia A+](https://www.credly.com/users/isaac-oribamise/badges)
 - [ITIL Fundamentals](https://www.linkedin.com/in/isaac-oribamise/)
+- [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000594664/nfxqlclkvg)
 
 <h2>🌱 My Goals for 2024</h2>
 
