@@ -6,7 +6,7 @@
 
 - <b>[Building a Resilient Cybersecurity Home Lab](https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab)</b>
 - <b>[Installing and Utilizing of pfSense Firewall](https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall)</b>
-- <b>[Mastering-Network-Insights-A-beginners-guide-to-TCPDump-Wireshark-Zenmap-and-Nmap](https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap)</b>
+- <b>[A-beginners-guide-to-TCPDump-Wireshark-Zenmap-and-Nmap](https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap)</b>
 
 
 
