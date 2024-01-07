@@ -7,7 +7,9 @@
 - <b>[Building a Resilient Cybersecurity Home Lab](https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab)</b>
 - <b>[Installing and Utilizing of pfSense Firewall](https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall)</b>
 - <b>[A Beginners Guide to TCPDump, Wireshark, Zenmap, and Nmap](https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap)</b>
-- <b>[School project- Cybersecurity Legal Compliance Simulation](https://github.com/IsaacOribamise/School-Project-Cybersecurity-Legal-Compliance-Simulation)</b>
+- <b>[School Project- Cybersecurity Legal Compliance Simulation](https://github.com/IsaacOribamise/School-Project-Cybersecurity-Legal-Compliance-Simulation)</b>
+- <b>[School Project- Digital Forensics: A Cybersecurity Investigation Project](https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project)</b>
+
 
 
 
